@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Lucida Console';
+    color: MediumVioletRed;
+    text-align: center;
+    font-size: 18px;
+    background-color: HotPink;
+    letter-spacing: 0.3em;
+    font-weight: bolder;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: PaleVioletRed;
+    font-size: 17px;
+  }
+  
+  thead {
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  td {
+    color: DeepPink;
+    font-size: 14px;
+    background-color: Pink;
+    padding: 5px 5px;
+  }
+  
+  thead td {
+    color: MediumVioletRed;
+    background-color: HotPink;
+  }
+  
+  
+  
+  
